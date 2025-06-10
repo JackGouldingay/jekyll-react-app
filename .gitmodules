@@ -1,0 +1,3 @@
+[submodule "spa-starter"]
+	path = spa-starter
+	url = git@github.com:JackGouldingay/spa-starter.git
