@@ -1,11 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Jekyll + React
+description: A jekyll just the docs app that has a react module inside of it.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Jekyll React App on Github: https://github.com/JackGouldingay/jekyll-react-app
+aux_links_new_tab: true
 
 exclude:
   - spa-starter
