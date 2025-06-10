@@ -1,6 +1,7 @@
 title: Jekyll + React
 description: A jekyll just the docs app that has a react module inside of it.
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 
